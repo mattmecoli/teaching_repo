@@ -7,3 +7,8 @@ This is an image:
 <br><br>
 
 ["My Favorite Link"](http://www.google.com)
+
+
+## Editing
+
+You can edit in VSCode locally or remotely on GitHub.
